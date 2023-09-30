@@ -1,4 +1,4 @@
-### - 🛠️🖥️ First year software engineering student.
+- 🛠️🖥️ First year software engineering student.
 - 🙇🕜 Currently learning Java, but also planning to add Python.
 - 🏎️💨 Love sense of speed and the smell of gasoline.
 - 🔥🎵 Eurobeat hits different.
