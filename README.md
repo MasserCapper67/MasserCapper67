@@ -1,6 +1,9 @@
 - 🛠️🖥️ First year software engineering student.
+- 
 - 🙇🕜 Currently learning Java, but also planning to add Python.
+- 
 - 🏎️💨 Love sense of speed and the smell of gasoline.
+- 
 - 🔥🎵 Eurobeat hits different.
 <!--
 **MasserCapper67/MasserCapper67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
