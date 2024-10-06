@@ -1,4 +1,4 @@
-- 🛠️🖥️ First year software engineering student.
+- 🛠️🖥️ Second year software engineering student.
   
 - 🙇🕜 Currently learning Java, but also planning to add Python and HTML
   
