@@ -1,6 +1,6 @@
 - 🛠️🖥️ Second year software engineering student.
   
-- 🙇🕜 Currently learning Java, but also planning to add Python and HTML
+- 🙇🕜 Currently learning GLSL
   
 - 🏎️💨 Love sense of speed and the smell of gasoline.
   
