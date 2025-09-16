@@ -1,4 +1,4 @@
-- 🛠️🖥️ Second year software engineering student.
+- 🛠️🖥️ Third year software engineering student.
   
 - 🙇🕜 Currently learning GLSL
   
